@@ -4,7 +4,7 @@ This is Jerbi Firas
 </h1>
 
 <h3 align="center">
-Full Stack Developer
+I'm a Full Stack Developer
 </h3>
 
 
