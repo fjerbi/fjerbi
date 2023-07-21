@@ -1,10 +1,10 @@
 <h1 align="center">
 Hi There 👋 <br> 
-This is Jerbi Firas
+It's Jerbi Firas
 </h1>
 
 <h3 align="center">
-I'm a software engineer | full Stack Developer
+I'm a software engineer | Full Stack Developer
 </h3>
    <p align="center" >
 Here is the list of the technologies I'm currently using
