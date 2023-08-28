@@ -25,11 +25,7 @@ Here is the list of the technologies I'm currently using
  </p>
  
 
-<p align="center">
-  <a href="https://github.com/fjerbi">
-    <img src="https://github-readme-stats.vercel.app/api?username=fjerbi&count_private=true&hide_border=true&show_icons=true" alt="fjerbi's github stats">
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/fjerbi">
