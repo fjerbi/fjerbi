@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Firas JERBI</h1>
+a<h1 align="center">Hi 👋, I'm Firas JERBI</h1>
 <h3 align="center">A passionate Full-Stack Developer Based in Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fjerbi&label=Profile%20views&color=0e75b6&style=flat" alt="fjerbi" /> </p>
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Front-End, Back-End, Augmented Reality, Databases**
 
 - 📫 How to reach me **firas.jerbi.engineer@gmail.com**
+
+- 📝 Check My [CV](https://fjerbi.github.io/resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
