@@ -58,7 +58,7 @@
   </a>
 </p>
 
-**Outcation** is a platform that reimagines how people discover and plan their next experiences — blending exploration, inspiration, and seamless planning into one intuitive app.
+**Outcation** is a B2B2C platform that reimagines how people discover and plan their next experiences — blending exploration, inspiration, and seamless planning into one intuitive app.
 
 #### ✨ Key Features
 - 🌍 Discover unique destinations and experiences  
@@ -66,11 +66,7 @@
 - 📅 Plan and organize trips effortlessly  
 - 📱 Clean, modern, and responsive user experience  
 
-#### 🛠️ Tech Stack
-- **Frontend:** React / Next.js  
-- **Backend:** Node.js / Express  
-- **Database:** MongoDB / PostgreSQL *(adjust if needed)*  
-- **Other:** APIs, Cloud Services, Performance Optimization  
+
 
 #### 🎯 Vision
 Outcation aims to simplify travel inspiration and planning by turning scattered ideas into structured, actionable experiences.
