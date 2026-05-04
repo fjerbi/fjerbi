@@ -47,3 +47,42 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fjerbi" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🚀 Featured Project: Outcation
+
+<p align="center">
+  <a href="https://www.outcation.app/">
+    <img src="https://img.shields.io/badge/🌍%20Visit-Outcation-blue?style=for-the-badge" />
+  </a>
+</p>
+
+**Outcation** is a platform that reimagines how people discover and plan their next experiences — blending exploration, inspiration, and seamless planning into one intuitive app.
+
+#### ✨ Key Features
+- 🌍 Discover unique destinations and experiences  
+- 🧠 Smart recommendations tailored to your interests  
+- 📅 Plan and organize trips effortlessly  
+- 📱 Clean, modern, and responsive user experience  
+
+#### 🛠️ Tech Stack
+- **Frontend:** React / Next.js  
+- **Backend:** Node.js / Express  
+- **Database:** MongoDB / PostgreSQL *(adjust if needed)*  
+- **Other:** APIs, Cloud Services, Performance Optimization  
+
+#### 🎯 Vision
+Outcation aims to simplify travel inspiration and planning by turning scattered ideas into structured, actionable experiences.
+
+---
+
+### 📸 Preview
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/A5LrNpQ8Me_-fqDCLU7aAyGBxspsHp6LhHk_0gxeUc403hbVM-dQgP99Argw9pKJ75lbr4-N0dY6NmQqwX2ljA=w416-h235-rw" alt="Outcation Preview" />
+</p>
+
+---
+
+### 💡 Why I Built It
+I wanted to create a product that combines my passion for full-stack development with real-world usability—solving the friction between *wanting to travel* and *actually planning it*.
