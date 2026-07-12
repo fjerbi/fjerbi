@@ -1,54 +1,85 @@
 <h1 align="center">Hi 👋, I'm Firas Jerbi</h1>
-<h3 align="center">A passionate Full-Stack Developer based in Germany</h3>
+
+<h3 align="center">
+Full-Stack Developer • Node.js • React • TypeScript • MongoDB
+</h3>
+
+<p align="center">
+Building scalable web applications and modern backend systems.
+Currently based in 🇩🇪 Germany.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=fjerbi&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💼 Full-Stack Developer
+- 🌍 Based in Germany
+- 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL, TypeScript**
+- 📄 CV: https://fjerbi.github.io/resume.pdf
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+### ☁️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+
+
+## 📫 Connect
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fjerbi&label=Profile%20views&color=0e75b6&style=flat" alt="fjerbi" />
+<a href="https://medium.com/@firasjerbi">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
+</a>
+
+<a href="https://www.youtube.com/@fjerbi">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
+</a>
+
+<!-- Add LinkedIn here -->
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fjerbi" alt="fjerbi" />
-  </a>
-</p>
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@firasjerbi)  
-- 💬 Ask me about **Frontend, Backend, Augmented Reality, Databases**  
-- 📫 Reach me at **firas.jerbi.engineer@gmail.com**  
-- 📄 Check my [CV](https://fjerbi.github.io/resume.pdf)  
-
----
-
-### 📚 Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://medium.com/@firasjerbi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@fjerbi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fjerbi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fjerbi&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fjerbi" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🚀 Featured Project: Outcation
 
