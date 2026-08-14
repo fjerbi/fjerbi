@@ -5,7 +5,7 @@ Full-Stack Developer • Node.js • React • TypeScript • MongoDB
 </h3>
 
 <p align="center">
-Building scalable web applications and modern backend systems.
+Building scalable web/mobile applications and modern backend systems.
 Currently based in 🇩🇪 Germany.
 </p>
 
