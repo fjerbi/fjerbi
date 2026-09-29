@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firas Jerbi</h1>
 
 <h3 align="center">
-Full-Stack Developer • Node.js • React • TypeScript • MongoDB
+Full-Stack Developer 
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ Currently based in 🇩🇪 Germany.
 
 - 💼 Full-Stack Developer
 - 🌍 Based in Germany
-- 💬 Ask me about **React, Node.js, Express, MongoDB, PostgreSQL, TypeScript**
+- 💬 Ask me about **React, React-Native, Unity, AI, Node.js, Express, MongoDB, PostgreSQL, TypeScript**
 - 📄 CV: https://fjerbi.github.io/resume.pdf
 
 ---
