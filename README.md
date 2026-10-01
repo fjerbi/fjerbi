@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Firas Jerbi</h1>
 
-<h3 align="center">
-Full-Stack Developer 
-</h3>
-
 <p align="center">
-Building scalable web/mobile applications and modern backend systems.
-Currently based in 🇩🇪 Germany.
+  <strong>Full-Stack Developer</strong> • <strong>Game Developer (Unity &amp; C#)</strong>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fjerbi&label=Profile%20Views&color=0e75b6&style=flat" />
+  Building scalable web & mobile applications, modern backend systems, and hobby game projects in Unity.
+  <br />
+  Currently based in 🇩🇪 Germany.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fjerbi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -18,6 +19,7 @@ Currently based in 🇩🇪 Germany.
 ## 🚀 About Me
 
 - 💼 Full-Stack Developer
+- 🎮 Game Developer (Unity & C#) — building small game prototypes and learning game architecture in my free time
 - 🌍 Based in Germany
 - 💬 Ask me about **React, React-Native, Unity, AI, Node.js, Express, MongoDB, PostgreSQL, TypeScript**
 - 📄 CV: https://fjerbi.github.io/resume.pdf
@@ -56,6 +58,13 @@ Currently based in 🇩🇪 Germany.
 
 ---
 
+### 🎮 Game Dev & Tools
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
 ### ☁️ DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -63,7 +72,6 @@ Currently based in 🇩🇪 Germany.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
 
 
 ## 📫 Connect
@@ -77,9 +85,13 @@ Currently based in 🇩🇪 Germany.
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
 </a>
 
-<!-- Add LinkedIn here -->
+<a href="https://www.linkedin.com/in/firas-jerbi/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="40"/>
+</a>
+
 </p>
 
+---
 
 ### 🚀 Featured Project: Outcation
 
@@ -95,9 +107,7 @@ Currently based in 🇩🇪 Germany.
 - 🌍 Discover unique destinations and experiences  
 - 🧠 Smart recommendations tailored to your interests  
 - 📅 Plan and organize trips effortlessly  
-- 📱 Clean, modern, and responsive user experience  
-
-
+- 📱 Clean, modern, and responsive user experience
 
 #### 🎯 Vision
 Outcation aims to simplify travel inspiration and planning by turning scattered ideas into structured, actionable experiences.
