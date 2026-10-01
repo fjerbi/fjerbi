@@ -77,16 +77,16 @@
 ## 📫 Connect
 
 <p align="left">
-<a href="https://medium.com/@firasjerbi">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40"/>
+<a href="https://medium.com/@firasjerbi" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" alt="Medium"/>
 </a>
 
-<a href="https://www.youtube.com/@fjerbi">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
+<a href="https://www.youtube.com/@fjerbi" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" alt="YouTube"/>
 </a>
 
-<a href="https://de.linkedin.com/in/firas-jerbi-1742b7164">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="40"/>
+<a href="https://de.linkedin.com/in/firas-jerbi-1742b7164" target="_blank" rel="noopener noreferrer">
+<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
 </a>
 
 </p>
@@ -96,7 +96,7 @@
 ### 🚀 Featured Project: Outcation
 
 <p align="center">
-  <a href="https://www.outcation.app/">
+  <a href="https://www.outcation.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌍%20Visit-Outcation-blue?style=for-the-badge" />
   </a>
 </p>
