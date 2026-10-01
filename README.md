@@ -85,7 +85,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/firas-jerbi/">
+<a href="https://de.linkedin.com/in/firas-jerbi-1742b7164">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" width="40"/>
 </a>
 
